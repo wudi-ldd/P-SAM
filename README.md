@@ -4,10 +4,7 @@
 P-SAM is a framework for more accurate semantic segmentation by leveraging imprecise semantic segmentation mask cues. Our approach is tailored to refine the segmentation process, enhancing the accuracy of object delineation in complex images.
 
 ### Dataset Annotation
-Our dataset has been annotated using a semi-automatic labeling tool developed specifically for this project. This tool enables efficient and precise annotation, significantly reducing the manual effort required while ensuring high-quality segmentation masks.
-
-### Tool Link
-[SAM-Annotation](https://github.com/wudi-ldd/SAM-Annotation).
+Our dataset has been annotated using a semi-automatic labeling tool developed specifically for this project. This tool enables efficient and precise annotation, significantly reducing the manual effort required while ensuring high-quality segmentation masks. [SAM-Annotation](https://github.com/wudi-ldd/SAM-Annotation).
 
 ### Official Pretrained Weights
 The official pre-trained weights for P-SAM can be accessed through the following link: (Note: Insert the actual link where indicated.)
